@@ -1,0 +1,21 @@
+body{
+            background-color:lightcyan;
+        }
+        hr { 
+            border-style: dotted none none;
+            border-color: lightgray;
+            border-width: 5px;
+            width: 10%;
+        }
+        img{
+            height: 200px;
+        }
+        h1 {color: #66BFBF;
+
+        }
+        h3 {color: #66BFBF;
+            
+        }
+        /* This is what is called external css.
+        it enables a developer to style the whole code with similar attributes but on a different file.*/
+        
